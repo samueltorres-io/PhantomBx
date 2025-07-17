@@ -84,3 +84,5 @@ Log e auditoria (Caminhos acessados, conexões tentadas via iptables ou bpftrace
 Atualizações e limpeza (Opção de reinstalar o ambiente (reseta a instalação do jogo) e sobrepõe o que foi utilizado, para não osbrar resquissos em disco. Botão para limpar cache, logs, arquivos temporários, ermitir backup e restauração de ambientes).
 
 !! Depois -> Suporte a discos virtuais (Usar arquivos .img montáveis ou FUSE para diretórios virtuais)
+
+!! Bloquear execução em segundo plano por default, mas deixar opção switch para troca e liberação!!
